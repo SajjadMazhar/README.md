@@ -4,10 +4,10 @@
 ```
 const Sajjad_Mazhar = {
   nickname: "Sajjad",
-  email: ["sajjad21@navgurukul.org", "sajjadmazharjr@gmail.com"],
+  emails: ["sajjad21@navgurukul.org", "sajjadmazharjr@gmail.com"],
   loveToCode: true,
-  code: [Javascript, Python, Typescript, NodeJs, CSS, HTML],
-  tools: [React, Redux, Node, Bootstrap, Mongodb, MySQL],
+  codes: [Javascript, Python, Typescript, NodeJs, CSS, HTML],
+  tools: [React, Node, Bootstrap, Mongodb, MySQL],
 }
 ```
 
