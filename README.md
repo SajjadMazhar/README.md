@@ -37,4 +37,8 @@ const Sajjad_Mazhar = {
 <a href="https://github.com/rachit1994/rachit1994">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadmazhar&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Sajjad GitHub Stats" />
 </a>
-![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SajjadMazhar&&theme=xcode)](https://github.com/SajjadMazhar)
+
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mahendra-shah&&theme=xcode)](https://github.com/mahendra-shah)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendra-shah&show_icons=true&locale=en&layout=compact" alt="mahendra-shah" /></p>
