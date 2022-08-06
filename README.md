@@ -39,6 +39,5 @@ const Sajjad_Mazhar = {
 </a>
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mahendra-shah&&theme=xcode)](https://github.com/mahendra-shah)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mahendra-shah&&theme=xcode)](https://github.com/sajjadmazhar)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendra-shah&show_icons=true&locale=en&layout=compact" alt="mahendra-shah" /></p>
