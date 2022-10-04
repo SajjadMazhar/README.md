@@ -12,7 +12,11 @@ const Sajjad_Mazhar = {
   tools: [React, Node, Bootstrap, Mongodb, MySQL],
 }
 ```
-
+<p align = "right">
+  <a href="https://github.com/Mitul-Joby">  
+  <img src ="https://komarev.com/ghpvc/?username=Mitul-Joby&color=2266aa&style=flat" alt="Profile Visitors"/>
+  </a>
+</p>
 - 🔭 I’m currently mentoring students at NavGurukul.
 - 🌱 I’m currently learning Web Development from Devsnest.
 - 📫 Check my professional history here: https://www.linkedin.com/in/sajjadmazhar/
