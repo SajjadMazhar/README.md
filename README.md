@@ -12,8 +12,8 @@ const Sajjad_Mazhar = {
   nickname: "Sajjad",
   emails: ["sajjad21@navgurukul.org", "sajjadmazharjr@gmail.com"],
   loveToCode: true,
-  codes: [Javascript, Python, Typescript, NodeJs, CSS, HTML],
-  tools: [React, Node, Bootstrap, Mongodb, MySQL],
+  codes: ["C/C++", "Javascript", "Python", "Typescript", "CSS", "HTML"],
+  tools: ["React", "Node", "Flask", "Firebase", "Google Cloud Services", "AWS", "Bootstrap", "Mongodb", "SQL"],
 }
 ```
 
@@ -41,7 +41,4 @@ const Sajjad_Mazhar = {
 <a href="https://github.com/rachit1994/rachit1994">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadmazhar&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Sajjad GitHub Stats" />
 </a>
-
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sajjadmazhar&&theme=xcode)](https://github.com/sajjadmazhar)
 
