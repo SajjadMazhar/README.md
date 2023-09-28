@@ -17,8 +17,8 @@ const Sajjad_Mazhar = {
 }
 ```
 
-- 🔭 I’m currently mentoring students at NavGurukul.
-- 🌱 I’m currently learning Web Development from Devsnest.
+- 🔭 I’m currently working as a fullstack engineer at Phicode Pvt. Ltd.
+- 🌱 I’m currently learning android/ios development.
 - 📫 Check my professional history here: https://www.linkedin.com/in/sajjadmazhar/
 - ⚡ Fun fact: Learning new things every day !
 
